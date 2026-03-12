@@ -1,0 +1,7 @@
+C:\Users\student\Desktop\car-parking-management-system\car-parking-management-system\bin\Debug\CarParkingManagementSystem.exe.config
+C:\Users\student\Desktop\car-parking-management-system\car-parking-management-system\bin\Debug\CarParkingManagementSystem.exe
+C:\Users\student\Desktop\car-parking-management-system\car-parking-management-system\bin\Debug\CarParkingManagementSystem.pdb
+C:\Users\student\Desktop\car-parking-management-system\car-parking-management-system\obj\Debug\CarParkingManagementSystem.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\car-parking-management-system\car-parking-management-system\obj\Debug\CarParkingManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\car-parking-management-system\car-parking-management-system\obj\Debug\CarParkingManagementSystem.exe
+C:\Users\student\Desktop\car-parking-management-system\car-parking-management-system\obj\Debug\CarParkingManagementSystem.pdb
