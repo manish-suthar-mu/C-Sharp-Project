@@ -4,9 +4,6 @@ using System.IO;
 using System.Linq;
 using System.Threading;
 
-
-
-
 namespace CarParkingManagementSystem
 {
     #region Main Program Class
