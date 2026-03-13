@@ -10,7 +10,7 @@ namespace CarParkingManagementSystem
     class Program
     {
         // --- Data Stores ---
-        // These lists hold the live data for the application session.
+        
         static List<User> users;
         static List<ParkingSlot> slots;
         static List<ParkingRecord> parkingLedger; // Stores all records, past and present.
@@ -332,7 +332,7 @@ namespace CarParkingManagementSystem
             {
                 UIHelper.PrintError($"Error loading {fileName}: {ex.Message}");
                 UIHelper.Pause();
-                return defaultDataProvider(); // Return default data on error
+                return defaultDataProvider();
             }
             return data;
         }
