@@ -15,7 +15,6 @@ namespace CarParkingManagementSystem
         static List<ParkingSlot> slots;
         static List<ParkingRecord> parkingLedger; // Stores all records, past and present.
 
-        // --- Configuration ---
         const decimal FOUR_WHEELER_HOURLY_RATE = 5.0m;
         const decimal TWO_WHEELER_HOURLY_RATE = 2.0m;
         static User loggedInUser = null;
@@ -609,5 +608,4 @@ namespace CarParkingManagementSystem
             Pause();
         }
     }
-    #endregion
 }
