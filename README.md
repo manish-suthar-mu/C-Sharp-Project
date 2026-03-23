@@ -19,9 +19,9 @@ A **console-based Car Parking Management System** built with C# and .NET Framewo
 
 ## 📌 Project Overview / Introduction
 
-This is a **desktop console application** that simulates a real-world parking management system. Users (admins or attendants) log in, record vehicle entries and exits, allocate parking slots by vehicle type (4-wheeler or 2-wheeler), calculate parking fees based on duration, and view reports. All data is stored in **CSV files**, so no database setup is required—making it easy to run and demonstrate.
+This is a **desktop console application** that simulates a real-world parking management system. Users (admins or attendants) log in, record vehicle entries and exits, allocate parking slots by vehicle type (4-wheeler or 2-wheeler), calculate parking fees based on duration, and view reports. All data is stored in **CSV files**, so no database setup is required - making it easy to run and demonstrate.
 
-The system supports **role-based access**: Admins can manage slots, users, and view reports; Attendants can perform vehicle entry and exit; Security has limited access. It is designed to be simple, clear, and suitable for academic submission and presentations.
+The system supports **role-based access**: Admins can manage slots, users, and view reports; Attendants can perform vehicle entry and exit; Security has limited access.
 
 ---
 
@@ -213,7 +213,7 @@ Billing uses fixed hourly rates (e.g. 4-wheeler $5/hour, 2-wheeler $2/hour); min
 
 ## Summary
 
-> *"Our project is a **Car Parking Management System** developed in **C#** as a console application. It allows staff to **log in** with different roles - Admin and Attendant - and perform **vehicle entry** and **exit** with automatic **slot allocation** for 4-wheelers and 2-wheelers. When a vehicle exits, the system **calculates the parking fee** based on how long it was parked and generates a bill. Admins can **add or remove parking slots**, view **reports** such as currently parked vehicles and **daily income**, and manage users. All data is stored in **CSV files** so the system runs without any database. The project demonstrates **object-oriented design**, **file I/O**, **role-based access**, and **menu-driven console UI**, making it a complete mini project suitable for academic submission."*
+> *"Our project is a **Car Parking Management System** developed in **C#** as a console application. It allows staff to **log in** with different roles - Admin and Attendant - and perform **vehicle entry** and **exit** with automatic **slot allocation** for 4-wheelers and 2-wheelers. When a vehicle exits, the system **calculates the parking fee** based on how long it was parked and generates a bill. Admins can **add or remove parking slots**, view **reports** such as currently parked vehicles and **daily income**, and manage users. All data is stored in **CSV files** so the system runs without any database. The project demonstrates **object-oriented design**, **file I/O**, **role-based access**, and **menu-driven console UI**."*
 
 ---
 
