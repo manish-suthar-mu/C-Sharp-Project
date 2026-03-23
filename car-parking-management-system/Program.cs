@@ -4,6 +4,7 @@ using System.IO;
 using System.Linq;
 using System.Threading;
 
+
 namespace CarParkingManagementSystem
 {
     #region Main Program Class
@@ -142,7 +143,7 @@ namespace CarParkingManagementSystem
 
                 if (parkingLedger.Any(v => v.VehicleNumber.Equals(vehicleNumber, StringComparison.OrdinalIgnoreCase) && v.ExitTime == null))
                 {
-                    throw new Exception("This vehicle is already parked.");
+                    throw new Exception("This vehicle is already parked..");
                 }
 
                 Console.Write("Enter Owner's Name: ");
@@ -609,3 +610,4 @@ namespace CarParkingManagementSystem
         }
     }
 }
+
