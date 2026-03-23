@@ -164,7 +164,7 @@ B01,0
 B02,0
 ```
 
-Default: 20 slots A01–A20 (4-wheeler), 10 slots B01–B10 (2-wheeler) if file is missing.
+Default: 20 slots A01 - A20 (4-wheeler), 10 slots B01–B10 (2-wheeler) if file is missing.
 
 ---
 
@@ -213,7 +213,7 @@ Billing uses fixed hourly rates (e.g. 4-wheeler $5/hour, 2-wheeler $2/hour); min
 
 ## Summary
 
-> *"Our project is a **Car Parking Management System** developed in **C#** as a console application. It allows staff to **log in** with different roles—Admin and Attendant—and perform **vehicle entry** and **exit** with automatic **slot allocation** for 4-wheelers and 2-wheelers. When a vehicle exits, the system **calculates the parking fee** based on how long it was parked and generates a bill. Admins can **add or remove parking slots**, view **reports** such as currently parked vehicles and **daily income**, and manage users. All data is stored in **CSV files** so the system runs without any database. The project demonstrates **object-oriented design**, **file I/O**, **role-based access**, and **menu-driven console UI**, making it a complete mini project suitable for academic submission."*
+> *"Our project is a **Car Parking Management System** developed in **C#** as a console application. It allows staff to **log in** with different roles - Admin and Attendant - and perform **vehicle entry** and **exit** with automatic **slot allocation** for 4-wheelers and 2-wheelers. When a vehicle exits, the system **calculates the parking fee** based on how long it was parked and generates a bill. Admins can **add or remove parking slots**, view **reports** such as currently parked vehicles and **daily income**, and manage users. All data is stored in **CSV files** so the system runs without any database. The project demonstrates **object-oriented design**, **file I/O**, **role-based access**, and **menu-driven console UI**, making it a complete mini project suitable for academic submission."*
 
 ---
 
@@ -232,4 +232,4 @@ The CSV files will be created in `bin\Debug\` on first run. You can add or remov
 ---
 
 
-*Developed by Manish and Sandip — Car Parking Management System *
+*Developed by Manish and Sandip - Car Parking Management System *
