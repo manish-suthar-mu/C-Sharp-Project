@@ -581,6 +581,7 @@ namespace CarParkingManagementSystem
             Console.ReadKey();
         }
 
+
         public static string ReadPassword()
         {
             string password = "";
