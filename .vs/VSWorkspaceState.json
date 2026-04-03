@@ -3,8 +3,7 @@
     "",
     "\\car-parking-management-system",
     "\\car-parking-management-system\\bin",
-    "\\car-parking-management-system\\bin\\Debug",
-    "\\car-parking-management-system\\obj\\Debug\\TempPE"
+    "\\car-parking-management-system\\bin\\Debug"
   ],
   "SelectedNode": "\\car-parking-management-system\\Program.cs",
   "PreviewInSolutionExplorer": false
